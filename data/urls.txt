@@ -14,6 +14,7 @@ https://github.com/conas/async
 https://github.com/couchbase/eventing
 https://github.com/couchbase/goxdcr
 https://github.com/cthulhuology/connserver2
+https://github.com/d-smith/go-examples
 https://github.com/dagoof/gibb
 https://github.com/devsisters/cine
 https://github.com/divtxt/go-actors
@@ -33,6 +34,7 @@ https://github.com/kontera-technologies/go-supervisor
 https://github.com/lancewf/concurrent
 https://github.com/ledao/goctor
 https://github.com/logicaleak/chucktor
+https://github.com/lytics/dfa
 https://github.com/lytics/grid
 https://github.com/mackerelio/mackerel-agent
 https://github.com/marcosquesada/gorlang

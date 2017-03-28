@@ -1,0 +1,16 @@
+https://github.com/abellai/goparallel
+https://github.com/arschles/gotp
+https://github.com/asynkronit/protoactor-go
+https://github.com/devsisters/cine
+https://github.com/divtxt/go-actors
+https://github.com/everpeace/go-actor
+https://github.com/foreleven/actor-go
+https://github.com/fuzzycow/ev32go
+https://github.com/go-akka/akka
+https://github.com/go-trellis/trellis
+https://github.com/logicaleak/chucktor
+https://github.com/lytics/grid
+https://github.com/marcosquesada/gorlang
+https://github.com/morikuni/flower
+https://github.com/taodev/koalanet
+https://github.com/umegaya/yue

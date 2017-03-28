@@ -38,6 +38,7 @@ The main purpose is reading / learning / teaching.
 - [couchbase/eventing](https://github.com/couchbase/eventing) - Communicate between Go and C/C++ using TCP(instead of CGo) <br/> ( 2017-03-27 / 71 commits / 0 stars )
 - [couchbase/goxdcr](https://github.com/couchbase/goxdcr) - --- <br/> ( 2017-03-27 / 622 commits / 5 stars )
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2) - ConnServer2 is a modern reimplementation of a classic MMO game server backend <br/> ( 2014-10-08 / 10 commits / 1 stars )
+- [d-smith/go-examples](https://github.com/d-smith/go-examples) - Examples of how to do various things using golang and golang packages. <br/> ( 2017-03-21 / 390 commits / 1 stars )
 - [dagoof/gibb](https://github.com/dagoof/gibb) - Message broadcasting pattern for go. In order, no messages dropped, and no backup for slow receivers. <br/> ( 2016-02-28 / 11 commits / 1 stars )
 - [devsisters/cine](https://github.com/devsisters/cine) - Actor model for golang <br/> ( 2016-08-23 / 38 commits / 4 stars )
 - [divtxt/go-actors](https://github.com/divtxt/go-actors) - Actor pattern in Go <br/> ( 2016-02-25 / 4 commits / 0 stars )
@@ -57,6 +58,7 @@ The main purpose is reading / learning / teaching.
 - [lancewf/concurrent](https://github.com/lancewf/concurrent) - Some concurrent structures from scala <br/> ( 2017-02-10 / 3 commits / 0 stars )
 - [ledao/goctor](https://github.com/ledao/goctor) - A simple actor wraper in go lang <br/> ( 2016-08-12 / 3 commits / 0 stars )
 - [logicaleak/chucktor](https://github.com/logicaleak/chucktor) - Chucktor : Actor implementation with golang channels ! <br/> ( 2016-03-31 / 28 commits / 0 stars )
+- [lytics/dfa](https://github.com/lytics/dfa) - Deterministic Finite Automata to define computation with labeled states and explicit transitions <br/> ( 2016-01-13 / 32 commits / 2 stars )
 - [lytics/grid](https://github.com/lytics/grid) - Message Passing and Actors for Golang <br/> ( 2016-12-17 / 379 commits / 1 stars )
 - [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent) - mackerel-agent is an agent program to post your hosts' metrics to mackerel.io. <br/> ( 2017-03-28 / 1,723 commits / 51 stars )
 - [marcosquesada/gorlang](https://github.com/marcosquesada/gorlang) - Proof of concept, ideas from Erlang explored in Go <br/> ( 2015-03-22 / 4 commits / 0 stars )
@@ -83,6 +85,7 @@ The main purpose is reading / learning / teaching.
 - [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent): 2017-03-28 <br/> mackerel-agent is an agent program to post your hosts' metrics to mackerel.io.
 - [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 2017-03-27 <br/> ---
 - [couchbase/eventing](https://github.com/couchbase/eventing): 2017-03-27 <br/> Communicate between Go and C/C++ using TCP(instead of CGo)
+- [d-smith/go-examples](https://github.com/d-smith/go-examples): 2017-03-21 <br/> Examples of how to do various things using golang and golang packages.
 - [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go): 2017-03-19 <br/> Proto Actor - Ultra fast distributed actors for Golang and C#
 - [go-trellis/trellis](https://github.com/go-trellis/trellis): 2017-03-11 <br/> go framework
 - [dmportella/docker-beat](https://github.com/dmportella/docker-beat): 2017-02-20 <br/> A simple docker event beat server that will distribute docker events to plugins/actors to perform actions against them.
@@ -114,6 +117,7 @@ The main purpose is reading / learning / teaching.
 - [divtxt/go-actors](https://github.com/divtxt/go-actors): 2016-02-25 <br/> Actor pattern in Go
 - [morikuni/flower](https://github.com/morikuni/flower): 2016-02-09 <br/> Concurrent Processing Helper
 - [chiyouhen/supervise](https://github.com/chiyouhen/supervise): 2016-02-05 <br/> service supervisor
+- [lytics/dfa](https://github.com/lytics/dfa): 2016-01-13 <br/> Deterministic Finite Automata to define computation with labeled states and explicit transitions
 - [odinliu/taskmaster](https://github.com/odinliu/taskmaster): 2015-12-28 <br/> A simple supervised goroutine pool based on worker-thread model.
 - [pronovix/daemongroup](https://github.com/pronovix/daemongroup): 2015-12-07 <br/> A simple package to supervise multiple running goroutines
 - [kontera-technologies/go-supervisor](https://github.com/kontera-technologies/go-supervisor): 2015-08-17 <br/> Supervise child process in the "Go Way"
@@ -143,10 +147,11 @@ The main purpose is reading / learning / teaching.
 - [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go): 14.72 MB<br/>  (14.14 MB git / 0.58 MB code)
 - [ghthor/filu](https://github.com/ghthor/filu): 11.68 MB<br/>  (5.96 MB git / 5.72 MB code)
 - [dmportella/docker-beat](https://github.com/dmportella/docker-beat): 7.06 MB<br/>  (2.60 MB git / 4.46 MB code)
+- [d-smith/go-examples](https://github.com/d-smith/go-examples): 5.21 MB<br/>  (4.54 MB git / 0.67 MB code)
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2): 4.72 MB<br/>  (1.69 MB git / 3.03 MB code)
 - [fuzzycow/ev32go](https://github.com/fuzzycow/ev32go): 3.43 MB<br/>  (3.18 MB git / 0.25 MB code)
 - [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 3.31 MB<br/>  (2.08 MB git / 1.23 MB code)
-- [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent): 2.29 MB<br/>  (1.77 MB git / 0.52 MB code)
+- [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent): 2.30 MB<br/>  (1.78 MB git / 0.52 MB code)
 - [taodev/koalanet](https://github.com/taodev/koalanet): 2.26 MB<br/>  (2.22 MB git / 0.04 MB code)
 - [chrislse/supervisors](https://github.com/chrislse/supervisors): 1.77 MB<br/>  (0.44 MB git / 1.33 MB code)
 - [lytics/grid](https://github.com/lytics/grid): 0.79 MB<br/>  (0.65 MB git / 0.14 MB code)
@@ -159,10 +164,11 @@ The main purpose is reading / learning / teaching.
 - [jasongiedymin/voom-builder](https://github.com/jasongiedymin/voom-builder): 0.18 MB<br/>  (0.09 MB git / 0.09 MB code)
 - [go-trellis/trellis](https://github.com/go-trellis/trellis): 0.18 MB<br/>  (0.09 MB git / 0.09 MB code)
 - [umegaya/yue](https://github.com/umegaya/yue): 0.17 MB<br/>  (0.08 MB git / 0.09 MB code)
+- [lytics/dfa](https://github.com/lytics/dfa): 0.14 MB<br/>  (0.10 MB git / 0.05 MB code)
 - [abhi-bit/go2c](https://github.com/abhi-bit/go2c): 0.14 MB<br/>  (0.06 MB git / 0.07 MB code)
 - [go-trellis/concurrency](https://github.com/go-trellis/concurrency): 0.11 MB<br/>  (0.07 MB git / 0.04 MB code)
 - [bobappleyard/bwl](https://github.com/bobappleyard/bwl): 0.11 MB<br/>  (0.07 MB git / 0.04 MB code)
-- [jsouthworth/seriatim](https://github.com/jsouthworth/seriatim): 0.10 MB<br/>  (0.05 MB git / 0.05 MB code)
+- [jsouthworth/seriatim](https://github.com/jsouthworth/seriatim): 0.11 MB<br/>  (0.05 MB git / 0.05 MB code)
 - [logicaleak/chucktor](https://github.com/logicaleak/chucktor): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [aprimus/actors](https://github.com/aprimus/actors): 0.10 MB<br/>  (0.05 MB git / 0.05 MB code)
 - [bino7/actor](https://github.com/bino7/actor): 0.09 MB<br/>  (0.06 MB git / 0.04 MB code)
@@ -187,7 +193,7 @@ The main purpose is reading / learning / teaching.
 - [mrkaspa/supervigor](https://github.com/mrkaspa/supervigor): 0.04 MB<br/>  (0.03 MB git / 0.00 MB code)
 - [foreleven/actor-go](https://github.com/foreleven/actor-go): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [raff/starter](https://github.com/raff/starter): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
-- [odinliu/taskmaster](https://github.com/odinliu/taskmaster): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
+- [odinliu/taskmaster](https://github.com/odinliu/taskmaster): 0.03 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [stuartherbert/go_actor](https://github.com/stuartherbert/go_actor): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [divtxt/go-actors](https://github.com/divtxt/go-actors): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [lancewf/concurrent](https://github.com/lancewf/concurrent): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)

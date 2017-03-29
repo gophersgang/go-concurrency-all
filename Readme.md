@@ -28,7 +28,7 @@ The main purpose is reading / learning / teaching.
 - [akaspin/supervisor](https://github.com/akaspin/supervisor) - --- <br/> ( 2016-10-21 / 8 commits / 0 stars )
 - [aprimus/actors](https://github.com/aprimus/actors) - Package for actor-based programming in Go <br/> ( 2014-09-05 / 2 commits / 0 stars )
 - [arschles/gotp](https://github.com/arschles/gotp) - Actors and an OTP clone, implemented in Go <br/> ( 2013-11-16 / 64 commits / 3 stars )
-- [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go) - Proto Actor - Ultra fast distributed actors for Golang and C# <br/> ( 2017-03-19 / 900 commits / 93 stars )
+- [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go) - Proto Actor - Ultra fast distributed actors for Golang and C# <br/> ( 2017-03-19 / 900 commits / 94 stars )
 - [barkingmousestudio/broadway](https://github.com/barkingmousestudio/broadway) - Simple, straightforward actor abstraction over channels. <br/> ( 2013-11-22 / 6 commits / 0 stars )
 - [bino7/actor](https://github.com/bino7/actor) - a distributed system <br/> ( 2015-06-24 / 23 commits / 0 stars )
 - [bobappleyard/bwl](https://github.com/bobappleyard/bwl) - Bob's Wonderful Go libraries <br/> ( 2015-05-19 / 39 commits / 9 stars )
@@ -36,7 +36,7 @@ The main purpose is reading / learning / teaching.
 - [chrislse/supervisors](https://github.com/chrislse/supervisors) - A go implementation of supervisors pattern for goroutines <br/> ( 2016-03-13 / 2 commits / 0 stars )
 - [conas/async](https://github.com/conas/async) - Go routine isolation and asynchronous utilities. <br/> ( 2016-11-04 / 3 commits / 0 stars )
 - [couchbase/eventing](https://github.com/couchbase/eventing) - Communicate between Go and C/C++ using TCP(instead of CGo) <br/> ( 2017-03-27 / 71 commits / 0 stars )
-- [couchbase/goxdcr](https://github.com/couchbase/goxdcr) - --- <br/> ( 2017-03-27 / 622 commits / 5 stars )
+- [couchbase/goxdcr](https://github.com/couchbase/goxdcr) - --- <br/> ( 2017-03-28 / 623 commits / 5 stars )
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2) - ConnServer2 is a modern reimplementation of a classic MMO game server backend <br/> ( 2014-10-08 / 10 commits / 1 stars )
 - [d-smith/go-examples](https://github.com/d-smith/go-examples) - Examples of how to do various things using golang and golang packages. <br/> ( 2017-03-21 / 390 commits / 1 stars )
 - [dagoof/gibb](https://github.com/dagoof/gibb) - Message broadcasting pattern for go. In order, no messages dropped, and no backup for slow receivers. <br/> ( 2016-02-28 / 11 commits / 1 stars )
@@ -52,6 +52,7 @@ The main purpose is reading / learning / teaching.
 - [go-trellis/concurrency](https://github.com/go-trellis/concurrency) - go concurrency library <br/> ( 2017-02-07 / 5 commits / 0 stars )
 - [go-trellis/trellis](https://github.com/go-trellis/trellis) - go framework <br/> ( 2017-03-11 / 16 commits / 0 stars )
 - [i0n/goose](https://github.com/i0n/goose) - Supervisor Event Listener written in Go <br/> ( 2014-07-29 / 11 commits / 0 stars )
+- [immortal/immortal](https://github.com/immortal/immortal) - ⭕ A *nix cross-platform (OS agnostic) supervisor <br/> ( 2017-03-26 / 554 commits / 1 stars )
 - [jasongiedymin/voom-builder](https://github.com/jasongiedymin/voom-builder) - voom-builder <br/> ( 2015-01-25 / 5 commits / 0 stars )
 - [jsouthworth/seriatim](https://github.com/jsouthworth/seriatim) - An implementation of Actor semantics on top of go channels with a D-Bus interface <br/> ( 2016-10-28 / 40 commits / 3 stars )
 - [kontera-technologies/go-supervisor](https://github.com/kontera-technologies/go-supervisor) - Supervise child process in the "Go Way" <br/> ( 2015-08-17 / 6 commits / 0 stars )
@@ -82,9 +83,10 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 2017-03-28 <br/> ---
 - [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent): 2017-03-28 <br/> mackerel-agent is an agent program to post your hosts' metrics to mackerel.io.
-- [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 2017-03-27 <br/> ---
 - [couchbase/eventing](https://github.com/couchbase/eventing): 2017-03-27 <br/> Communicate between Go and C/C++ using TCP(instead of CGo)
+- [immortal/immortal](https://github.com/immortal/immortal): 2017-03-26 <br/> ⭕ A *nix cross-platform (OS agnostic) supervisor
 - [d-smith/go-examples](https://github.com/d-smith/go-examples): 2017-03-21 <br/> Examples of how to do various things using golang and golang packages.
 - [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go): 2017-03-19 <br/> Proto Actor - Ultra fast distributed actors for Golang and C#
 - [go-trellis/trellis](https://github.com/go-trellis/trellis): 2017-03-11 <br/> go framework
@@ -150,11 +152,12 @@ The main purpose is reading / learning / teaching.
 - [d-smith/go-examples](https://github.com/d-smith/go-examples): 5.21 MB<br/>  (4.54 MB git / 0.67 MB code)
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2): 4.72 MB<br/>  (1.69 MB git / 3.03 MB code)
 - [fuzzycow/ev32go](https://github.com/fuzzycow/ev32go): 3.43 MB<br/>  (3.18 MB git / 0.25 MB code)
-- [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 3.31 MB<br/>  (2.08 MB git / 1.23 MB code)
+- [couchbase/goxdcr](https://github.com/couchbase/goxdcr): 3.38 MB<br/>  (2.14 MB git / 1.23 MB code)
 - [mackerelio/mackerel-agent](https://github.com/mackerelio/mackerel-agent): 2.30 MB<br/>  (1.78 MB git / 0.52 MB code)
 - [taodev/koalanet](https://github.com/taodev/koalanet): 2.26 MB<br/>  (2.22 MB git / 0.04 MB code)
 - [chrislse/supervisors](https://github.com/chrislse/supervisors): 1.77 MB<br/>  (0.44 MB git / 1.33 MB code)
-- [lytics/grid](https://github.com/lytics/grid): 0.79 MB<br/>  (0.65 MB git / 0.14 MB code)
+- [immortal/immortal](https://github.com/immortal/immortal): 1.57 MB<br/>  (1.46 MB git / 0.11 MB code)
+- [lytics/grid](https://github.com/lytics/grid): 0.80 MB<br/>  (0.65 MB git / 0.14 MB code)
 - [couchbase/eventing](https://github.com/couchbase/eventing): 0.63 MB<br/>  (0.35 MB git / 0.28 MB code)
 - [arschles/gotp](https://github.com/arschles/gotp): 0.48 MB<br/>  (0.46 MB git / 0.01 MB code)
 - [go-akka/akka](https://github.com/go-akka/akka): 0.29 MB<br/>  (0.14 MB git / 0.15 MB code)

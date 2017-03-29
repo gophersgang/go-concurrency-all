@@ -40,6 +40,7 @@ The main purpose is reading / learning / teaching.
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2) - ConnServer2 is a modern reimplementation of a classic MMO game server backend <br/> ( 2014-10-08 / 10 commits / 1 stars )
 - [d-smith/go-examples](https://github.com/d-smith/go-examples) - Examples of how to do various things using golang and golang packages. <br/> ( 2017-03-21 / 390 commits / 1 stars )
 - [dagoof/gibb](https://github.com/dagoof/gibb) - Message broadcasting pattern for go. In order, no messages dropped, and no backup for slow receivers. <br/> ( 2016-02-28 / 11 commits / 1 stars )
+- [dc0d/supervisor](https://github.com/dc0d/supervisor) - Supervisor trees for Go <br/> ( 2017-03-19 / 6 commits / 2 stars )
 - [devsisters/cine](https://github.com/devsisters/cine) - Actor model for golang <br/> ( 2016-08-23 / 38 commits / 4 stars )
 - [divtxt/go-actors](https://github.com/divtxt/go-actors) - Actor pattern in Go <br/> ( 2016-02-25 / 4 commits / 0 stars )
 - [dmportella/docker-beat](https://github.com/dmportella/docker-beat) - A simple docker event beat server that will distribute docker events to plugins/actors to perform actions against them. <br/> ( 2017-02-20 / 45 commits / 0 stars )
@@ -89,6 +90,7 @@ The main purpose is reading / learning / teaching.
 - [immortal/immortal](https://github.com/immortal/immortal): 2017-03-26 <br/> ⭕ A *nix cross-platform (OS agnostic) supervisor
 - [d-smith/go-examples](https://github.com/d-smith/go-examples): 2017-03-21 <br/> Examples of how to do various things using golang and golang packages.
 - [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go): 2017-03-19 <br/> Proto Actor - Ultra fast distributed actors for Golang and C#
+- [dc0d/supervisor](https://github.com/dc0d/supervisor): 2017-03-19 <br/> Supervisor trees for Go
 - [go-trellis/trellis](https://github.com/go-trellis/trellis): 2017-03-11 <br/> go framework
 - [dmportella/docker-beat](https://github.com/dmportella/docker-beat): 2017-02-20 <br/> A simple docker event beat server that will distribute docker events to plugins/actors to perform actions against them.
 - [go-akka/akka](https://github.com/go-akka/akka): 2017-02-14 <br/> ---
@@ -186,6 +188,7 @@ The main purpose is reading / learning / teaching.
 - [conas/async](https://github.com/conas/async): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [dagoof/gibb](https://github.com/dagoof/gibb): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [akaspin/supervisor](https://github.com/akaspin/supervisor): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
+- [dc0d/supervisor](https://github.com/dc0d/supervisor): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [akaspin/concurrency](https://github.com/akaspin/concurrency): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [steeve/broadcaster](https://github.com/steeve/broadcaster): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [ledao/goctor](https://github.com/ledao/goctor): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)

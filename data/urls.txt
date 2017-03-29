@@ -16,6 +16,7 @@ https://github.com/couchbase/goxdcr
 https://github.com/cthulhuology/connserver2
 https://github.com/d-smith/go-examples
 https://github.com/dagoof/gibb
+https://github.com/dc0d/supervisor
 https://github.com/devsisters/cine
 https://github.com/divtxt/go-actors
 https://github.com/dmportella/docker-beat

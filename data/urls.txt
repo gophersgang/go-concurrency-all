@@ -28,6 +28,7 @@ https://github.com/go-akka/akka
 https://github.com/go-trellis/concurrency
 https://github.com/go-trellis/trellis
 https://github.com/i0n/goose
+https://github.com/immortal/immortal
 https://github.com/jasongiedymin/voom-builder
 https://github.com/jsouthworth/seriatim
 https://github.com/kontera-technologies/go-supervisor

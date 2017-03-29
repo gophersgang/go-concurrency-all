@@ -68,9 +68,11 @@ The main purpose is reading / learning / teaching.
 - [mrkaspa/supervigor](https://github.com/mrkaspa/supervigor) - Goroutines supervision <br/> ( 2016-12-27 / 13 commits / 0 stars )
 - [nicholaskh/actor](https://github.com/nicholaskh/actor) - --- <br/> ( 2015-03-09 / 2 commits / 0 stars )
 - [odinliu/taskmaster](https://github.com/odinliu/taskmaster) - A simple supervised goroutine pool based on worker-thread model. <br/> ( 2015-12-28 / 6 commits / 0 stars )
+- [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah) - --- <br/> ( 2017-03-06 / 195 commits / 0 stars )
 - [paulosuzart/gb](https://github.com/paulosuzart/gb) - Go Benchmark. Inspired by Apache Benchmark <br/> ( 2014-07-09 / 94 commits / 7 stars )
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer) - Go example that uses channels to build an execution pipeline <br/> ( 2016-10-05 / 29 commits / 3 stars )
 - [polydawn/go-sup](https://github.com/polydawn/go-sup) - Supervisors for golang <br/> ( 2017-01-29 / 136 commits / 1 stars )
+- [polydawn/siphon-cli](https://github.com/polydawn/siphon-cli) - Siphon launches processes with a new pty, then lets clients attach and detach from that pty host freely.  Think `screen`, but over tubes like a unix pipe or tcp socket. <br/> ( 2013-09-21 / 36 commits / 4 stars )
 - [pronovix/daemongroup](https://github.com/pronovix/daemongroup) - A simple package to supervise multiple running goroutines <br/> ( 2015-12-07 / 2 commits / 0 stars )
 - [raff/starter](https://github.com/raff/starter) - a starter / supervisor application <br/> ( 2016-08-04 / 6 commits / 0 stars )
 - [shumkovdenis/actor](https://github.com/shumkovdenis/actor) - --- <br/> ( 2017-01-23 / 21 commits / 0 stars )
@@ -79,7 +81,9 @@ The main purpose is reading / learning / teaching.
 - [stuartherbert/go_actor](https://github.com/stuartherbert/go_actor) - Basic actor support for Google's Go <br/> ( 2014-11-23 / 5 commits / 0 stars )
 - [sunfmin/fanout](https://github.com/sunfmin/fanout) - Fanout - make writing parallel code even easier <br/> ( 2015-01-10 / 20 commits / 25 stars )
 - [taodev/koalanet](https://github.com/taodev/koalanet) - 一个轻量的游戏服务器框架，go语言实现，Actor模式 <br/> ( 2016-11-12 / 20 commits / 0 stars )
+- [ulfurinn/gen_proc](https://github.com/ulfurinn/gen_proc) - --- <br/> ( 2014-09-08 / 13 commits / 0 stars )
 - [umegaya/yue](https://github.com/umegaya/yue) - luact frontend implementation in golang, which is inspired celluloid and orleans <br/> ( 2016-05-24 / 3 commits / 0 stars )
+- [weaveworks/mesh](https://github.com/weaveworks/mesh) - A tool for building distributed applications. <br/> ( 2017-01-31 / 143 commits / 12 stars )
 <!-- /PROJECTS_LIST -->
 
 ### By Activity
@@ -92,10 +96,12 @@ The main purpose is reading / learning / teaching.
 - [asynkronit/protoactor-go](https://github.com/asynkronit/protoactor-go): 2017-03-19 <br/> Proto Actor - Ultra fast distributed actors for Golang and C#
 - [dc0d/supervisor](https://github.com/dc0d/supervisor): 2017-03-19 <br/> Supervisor trees for Go
 - [go-trellis/trellis](https://github.com/go-trellis/trellis): 2017-03-11 <br/> go framework
+- [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah): 2017-03-06 <br/> ---
 - [dmportella/docker-beat](https://github.com/dmportella/docker-beat): 2017-02-20 <br/> A simple docker event beat server that will distribute docker events to plugins/actors to perform actions against them.
 - [go-akka/akka](https://github.com/go-akka/akka): 2017-02-14 <br/> ---
 - [lancewf/concurrent](https://github.com/lancewf/concurrent): 2017-02-10 <br/> Some concurrent structures from scala
 - [go-trellis/concurrency](https://github.com/go-trellis/concurrency): 2017-02-07 <br/> go concurrency library
+- [weaveworks/mesh](https://github.com/weaveworks/mesh): 2017-01-31 <br/> A tool for building distributed applications.
 - [polydawn/go-sup](https://github.com/polydawn/go-sup): 2017-01-29 <br/> Supervisors for golang
 - [shumkovdenis/actor](https://github.com/shumkovdenis/actor): 2017-01-23 <br/> ---
 - [mrkaspa/supervigor](https://github.com/mrkaspa/supervigor): 2016-12-27 <br/> Goroutines supervision
@@ -135,6 +141,7 @@ The main purpose is reading / learning / teaching.
 - [sunfmin/fanout](https://github.com/sunfmin/fanout): 2015-01-10 <br/> Fanout - make writing parallel code even easier
 - [stuartherbert/go_actor](https://github.com/stuartherbert/go_actor): 2014-11-23 <br/> Basic actor support for Google's Go
 - [cthulhuology/connserver2](https://github.com/cthulhuology/connserver2): 2014-10-08 <br/> ConnServer2 is a modern reimplementation of a classic MMO game server backend
+- [ulfurinn/gen_proc](https://github.com/ulfurinn/gen_proc): 2014-09-08 <br/> ---
 - [aprimus/actors](https://github.com/aprimus/actors): 2014-09-05 <br/> Package for actor-based programming in Go
 - [everpeace/go-actor](https://github.com/everpeace/go-actor): 2014-08-21 <br/> far far incomplete actor implementation in golang. This is only for my golang learning.
 - [i0n/goose](https://github.com/i0n/goose): 2014-07-29 <br/> Supervisor Event Listener written in Go
@@ -142,6 +149,7 @@ The main purpose is reading / learning / teaching.
 - [slyrz/spawn](https://github.com/slyrz/spawn): 2014-01-18 <br/> Process-based parallelism for Go
 - [barkingmousestudio/broadway](https://github.com/barkingmousestudio/broadway): 2013-11-22 <br/> Simple, straightforward actor abstraction over channels.
 - [arschles/gotp](https://github.com/arschles/gotp): 2013-11-16 <br/> Actors and an OTP clone, implemented in Go
+- [polydawn/siphon-cli](https://github.com/polydawn/siphon-cli): 2013-09-21 <br/> Siphon launches processes with a new pty, then lets clients attach and detach from that pty host freely.  Think `screen`, but over tubes like a unix pipe or tcp socket.
 <!-- /ACTIVITY_LIST -->
 
 ### By size
@@ -161,6 +169,8 @@ The main purpose is reading / learning / teaching.
 - [immortal/immortal](https://github.com/immortal/immortal): 1.57 MB<br/>  (1.46 MB git / 0.11 MB code)
 - [lytics/grid](https://github.com/lytics/grid): 0.80 MB<br/>  (0.65 MB git / 0.14 MB code)
 - [couchbase/eventing](https://github.com/couchbase/eventing): 0.63 MB<br/>  (0.35 MB git / 0.28 MB code)
+- [weaveworks/mesh](https://github.com/weaveworks/mesh): 0.53 MB<br/>  (0.30 MB git / 0.24 MB code)
+- [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah): 0.49 MB<br/>  (0.30 MB git / 0.19 MB code)
 - [arschles/gotp](https://github.com/arschles/gotp): 0.48 MB<br/>  (0.46 MB git / 0.01 MB code)
 - [go-akka/akka](https://github.com/go-akka/akka): 0.29 MB<br/>  (0.14 MB git / 0.15 MB code)
 - [paulosuzart/gb](https://github.com/paulosuzart/gb): 0.28 MB<br/>  (0.22 MB git / 0.06 MB code)
@@ -182,13 +192,15 @@ The main purpose is reading / learning / teaching.
 - [chiyouhen/supervise](https://github.com/chiyouhen/supervise): 0.09 MB<br/>  (0.05 MB git / 0.04 MB code)
 - [devsisters/cine](https://github.com/devsisters/cine): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer): 0.08 MB<br/>  (0.06 MB git / 0.02 MB code)
+- [polydawn/siphon-cli](https://github.com/polydawn/siphon-cli): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [barkingmousestudio/broadway](https://github.com/barkingmousestudio/broadway): 0.07 MB<br/>  (0.04 MB git / 0.02 MB code)
+- [ulfurinn/gen_proc](https://github.com/ulfurinn/gen_proc): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [morikuni/flower](https://github.com/morikuni/flower): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [kontera-technologies/go-supervisor](https://github.com/kontera-technologies/go-supervisor): 0.05 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [conas/async](https://github.com/conas/async): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [dagoof/gibb](https://github.com/dagoof/gibb): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [akaspin/supervisor](https://github.com/akaspin/supervisor): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
-- [dc0d/supervisor](https://github.com/dc0d/supervisor): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
+- [dc0d/supervisor](https://github.com/dc0d/supervisor): 0.05 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [akaspin/concurrency](https://github.com/akaspin/concurrency): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [steeve/broadcaster](https://github.com/steeve/broadcaster): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [ledao/goctor](https://github.com/ledao/goctor): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)

@@ -44,9 +44,11 @@ https://github.com/morikuni/flower
 https://github.com/mrkaspa/supervigor
 https://github.com/nicholaskh/actor
 https://github.com/odinliu/taskmaster
+https://github.com/oklahomer/go-sarah
 https://github.com/paulosuzart/gb
 https://github.com/picadoh/gostreamer
 https://github.com/polydawn/go-sup
+https://github.com/polydawn/siphon-cli
 https://github.com/pronovix/daemongroup
 https://github.com/raff/starter
 https://github.com/shumkovdenis/actor
@@ -55,4 +57,6 @@ https://github.com/steeve/broadcaster
 https://github.com/stuartherbert/go_actor
 https://github.com/sunfmin/fanout
 https://github.com/taodev/koalanet
+https://github.com/ulfurinn/gen_proc
 https://github.com/umegaya/yue
+https://github.com/weaveworks/mesh

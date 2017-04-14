@@ -57,6 +57,7 @@ https://github.com/steeve/broadcaster
 https://github.com/stuartherbert/go_actor
 https://github.com/sunfmin/fanout
 https://github.com/taodev/koalanet
+https://github.com/tideland/gocells
 https://github.com/ulfurinn/gen_proc
 https://github.com/umegaya/yue
 https://github.com/weaveworks/mesh
